@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Menteshex
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning JS, SQL & Python.
-- 💞️ I’m looking to collaborate on some interesting projects related with databases.
+- 🌱 I’m currently learning SQL & Python.
+- 💞️ I’m looking to collaborate on some interesting projects related with data analyses.
 - 📫 How to reach me ...
 
 <!---
